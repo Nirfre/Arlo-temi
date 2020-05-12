@@ -49,11 +49,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="10.10.110.149:5555" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-12T11:35:18.770Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-12T12:11:16.683Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1574560614624" />
@@ -76,8 +76,8 @@
       <recent name="com.company_name.arlo_kiosk.activity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\temi\arlo - hotel\temidevusa-arlo-kiosk-d98f1fc289de\app\src\main\res\mipmap-xhdpi" />
       <recent name="D:\temi\arlo - hotel\temidevusa-arlo-kiosk-d98f1fc289de\app\src\main\res\drawable-xhdpi" />
+      <recent name="D:\temi\arlo - hotel\temidevusa-arlo-kiosk-d98f1fc289de\app\src\main\res\mipmap-xhdpi" />
       <recent name="D:\temi\arlo - hotel\temidevusa-arlo-kiosk-d98f1fc289de\app\src\main\res\drawable-v24" />
       <recent name="D:\temi\arlo - hotel\temidevusa-arlo-kiosk-d98f1fc289de\app\src\main\res\layout" />
       <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
