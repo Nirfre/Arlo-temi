@@ -1,0 +1,39 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<color name="color_primary">#000000</color>
+	<color name="color_primary_dark">#000000</color>
+	<color name="color_accent">#000000</color>
+	<color name="click_overlay">#555555</color>
+	<color name="white">#FFFF</color>
+	<color name="default_hint">#C6C6CB</color>
+	<color name="material_bottom_sheet_title">#8a000000</color>
+	<color name="material_bottom_sheet_item">#de000000</color>
+	
+	<!-- AboutArlo -->
+	<color name="about_arlo_aboutarlo_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- EventCalendar -->
+	<color name="event_calendar_eventcalendar_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- SundayEvents -->
+	<color name="sunday_events_sundayevents_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- SaturdayEvents -->
+	<color name="saturday_events_saturdayevents_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- FridayEvents -->
+	<color name="friday_events_fridayevents_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- ThursdayEvents -->
+	<color name="thursday_events_thursdayevents_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- WednesdayEvents -->
+	<color name="wednesday_events_wednesdayevents_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- TuesdayEvents -->
+	<color name="tuesday_events_tuesdayevents_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- Menu -->
+	<color name="menu_menu_constraint_layout_background_color">#FFFFFF</color>
+</resources>

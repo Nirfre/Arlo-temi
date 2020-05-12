@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.company_name.arlo_kiosk">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".explanation"></activity>
+
+        <meta-data
+            android:name="com.robotemi.sdk.metadata.SKILL"
+            android:value="@string/app_name" />
+        <meta-data
+            android:name="com.robotemi.sdk.metadata.KIOSK"
+            android:value="TRUE" />
+
+        <activity
+            android:name=".activity.AboutArlo"
+            android:label="@string/about_arlo_title"
+            android:theme="@style/AboutArloTheme" />
+        <activity
+            android:name=".activity.EventCalendar"
+            android:label="@string/event_calendar_title"
+            android:theme="@style/EventCalendarTheme" />
+        <activity
+            android:name=".activity.SundayEvents"
+            android:label="@string/sunday_events_title"
+            android:theme="@style/SundayEventsTheme" />
+        <activity
+            android:name=".activity.SaturdayEvents"
+            android:label="@string/saturday_events_title"
+            android:theme="@style/SaturdayEventsTheme" />
+        <activity
+            android:name=".activity.FridayEvents"
+            android:label="@string/friday_events_title"
+            android:theme="@style/FridayEventsTheme" />
+        <activity
+            android:name=".activity.ThursdayEvents"
+            android:label="@string/thursday_events_title"
+            android:theme="@style/ThursdayEventsTheme" />
+        <activity
+            android:name=".activity.WednesdayEvents"
+            android:label="@string/wednesday_events_title"
+            android:theme="@style/WednesdayEventsTheme" />
+        <activity
+            android:name=".activity.TuesdayEvents"
+            android:label="@string/tuesday_events_title"
+            android:theme="@style/TuesdayEventsTheme" />
+        <activity
+            android:name=".activity.Camera"
+            android:label="@string/tuesday_events_title"
+            android:theme="@style/TuesdayEventsTheme" />
+        <activity
+            android:name=".activity.Menu"
+            android:label="@string/menu_title"
+            android:theme="@style/MenuTheme">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

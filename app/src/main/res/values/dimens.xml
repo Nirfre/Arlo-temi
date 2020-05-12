@@ -1,0 +1,56 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<dimen name="material_spacing_small">8dp</dimen>
+	<dimen name="material_spacing_medium">16dp</dimen>
+	<dimen name="material_spacing_large">24dp</dimen>
+	<dimen name="material_bottom_sheet_item_size">56dp</dimen>
+	<dimen name="material_bottom_sheet_item_text_size">16sp</dimen>
+	
+	<!-- AboutArlo -->
+	<dimen name="about_arlo_screen_shot20191121_at40138_pm_image_view_margin_start">-28dp</dimen>
+	<dimen name="about_arlo_screen_shot20191121_at40138_pm_image_view_margin_top">26dp</dimen>
+	<dimen name="about_arlo_screen_shot20191121_at40138_pm_image_view_margin_end">-21dp</dimen>
+	<dimen name="about_arlo_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="about_arlo_logo_nautilus_image_view_margin_top">2dp</dimen>
+	
+	<!-- EventCalendar -->
+	<dimen name="event_calendar_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="event_calendar_logo_nautilus_image_view_margin_top">2dp</dimen>
+	<dimen name="event_calendar_saturday_image_view_margin_bottom">-9dp</dimen>
+	<dimen name="event_calendar_sunday_image_view_margin_bottom">-9dp</dimen>
+	
+	<!-- SundayEvents -->
+	<dimen name="sunday_events_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="sunday_events_logo_nautilus_image_view_margin_top">2dp</dimen>
+	
+	<!-- SaturdayEvents -->
+	<dimen name="saturday_events_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="saturday_events_logo_nautilus_image_view_margin_top">2dp</dimen>
+	
+	<!-- FridayEvents -->
+	<dimen name="friday_events_upanddownfriday_image_view_margin_bottom">-9dp</dimen>
+	<dimen name="friday_events_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="friday_events_logo_nautilus_image_view_margin_top">2dp</dimen>
+	<dimen name="friday_events_opusfriday_image_view_margin_bottom">-9dp</dimen>
+	
+	<!-- ThursdayEvents -->
+	<dimen name="thursday_events_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="thursday_events_logo_nautilus_image_view_margin_top">2dp</dimen>
+	<dimen name="thursday_events_nautbyarlothursday_image_view_margin_top">5dp</dimen>
+	<dimen name="thursday_events_nbathurs_image_view_margin_top">61dp</dimen>
+	<dimen name="thursday_events_audemarsthurs_image_view_margin_top">36dp</dimen>
+	<dimen name="thursday_events_tikidiscothurs_image_view_margin_top">61dp</dimen>
+	
+	<!-- WednesdayEvents -->
+	<dimen name="wednesday_events_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="wednesday_events_logo_nautilus_image_view_margin_top">2dp</dimen>
+	
+	<!-- TuesdayEvents -->
+	<dimen name="tuesday_events_logo_nautilus_image_view_margin_start">8dp</dimen>
+	<dimen name="tuesday_events_logo_nautilus_image_view_margin_top">2dp</dimen>
+	<dimen name="tuesday_events_nbatues_image_view_margin_start">-2dp</dimen>
+	
+	<!-- Menu -->
+	<dimen name="menu_beermeter_image_view_margin_end">-5dp</dimen>
+</resources>

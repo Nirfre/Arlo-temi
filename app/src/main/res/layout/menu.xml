@@ -1,0 +1,77 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/menu_constraint_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/menu_menu_constraint_layout_background_color">
+
+    <ImageView
+        android:id="@+id/beermeter_image_view"
+        android:layout_width="215dp"
+        android:layout_height="734dp"
+        android:layout_marginStart="1075dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/beermeter"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="1086dp"
+        android:layout_height="706dp"
+        android:layout_marginBottom="116dp"
+        android:background="@color/color_primary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+
+        >
+    </androidx.viewpager.widget.ViewPager>
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:id="@+id/beer_image_view"
+        android:layout_width="1226dp"
+        android:layout_height="660dp"
+        android:layout_marginStart="569dp"
+        android:layout_marginTop="712dp"
+        android:src="@drawable/beer_bubbles"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/beermeter_image_view" />
+
+    <ImageView
+        android:id="@+id/eventcal_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="eventCalendar"
+        android:scaleType="centerCrop"
+        android:src="@drawable/eventcal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <ImageView
+        android:id="@+id/arlobutton_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="aboutArlo"
+        android:scaleType="center"
+        android:src="@drawable/arlobutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/eventcal_image_view" />
+
+    <ImageView
+        android:id="@+id/martiniglass_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="beginAction"
+        android:scaleType="center"
+        android:src="@drawable/martiniglass"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Project level resources -->
+    <string name="app_name">Arlo Kiosk</string>
+
+    <!-- AboutArlo -->
+    <string name="about_arlo_title"></string>
+
+    <!-- EventCalendar -->
+    <string name="event_calendar_title"></string>
+
+    <!-- SundayEvents -->
+    <string name="sunday_events_title"></string>
+
+    <!-- SaturdayEvents -->
+    <string name="saturday_events_title"></string>
+
+    <!-- FridayEvents -->
+    <string name="friday_events_title"></string>
+
+    <!-- ThursdayEvents -->
+    <string name="thursday_events_title"></string>
+
+    <!-- WednesdayEvents -->
+    <string name="wednesday_events_title"></string>
+
+    <!-- TuesdayEvents -->
+    <string name="tuesday_events_title"></string>
+
+    <!-- Menu -->
+    <string name="menu_title"></string>
+    <string name="take_photo">Take Photo</string>
+</resources>

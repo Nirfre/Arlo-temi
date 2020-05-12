@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="temidevusa-arlo-kiosk-d98f1fc289de/app" />
+      <module fileurl="file://$PROJECT_DIR$/temidevusa-arlo-kiosk-d98f1fc289de.iml" filepath="$PROJECT_DIR$/temidevusa-arlo-kiosk-d98f1fc289de.iml" group="temidevusa-arlo-kiosk-d98f1fc289de" />
+    </modules>
+  </component>
+</project>
